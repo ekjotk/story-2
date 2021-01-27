@@ -1,1 +1,1 @@
-this is git and github version control
+itis git and github version control
